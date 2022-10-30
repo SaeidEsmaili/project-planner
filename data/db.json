@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create New Homepage Banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make Marketing Email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "test3",
+      "details": "test test test 5050 err",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Test2",
+      "details": "test test test :)",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
